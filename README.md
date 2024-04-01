@@ -6,6 +6,7 @@
 
 <br>
 <br>
+## Rizki Romdhoni
 
-### <h3> I am a passionate website developer enthusiastic about technology 🤖 and web development 🖥️. </h3>
+### <h3> I am a passionate in website development & backend enginering, a enthusiastic person about technology 🤖 and web development 🖥️.</h3>
 </div>

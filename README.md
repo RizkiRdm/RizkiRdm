@@ -10,5 +10,5 @@
   Rizki Romdhoni
 </h2>
 
-### <h3> I am a passionate in website development & backend enginering, a enthusiastic person about technology 🤖 and web development 🖥️.</h3>
+### <h3> I am passionate about website development & backend engineering, a person who is enthusiastic about technology 🤖 and web development 🖥️.</h3>
 </div>

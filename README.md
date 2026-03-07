@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="header.png" alt="Rizki Romdhoni Header" width="75%" height="auto">
-
-<br>
-
 # 🚀 Rizki Romdhoni
 ### **Backend Engineer | Python & Go Enthusiast**
 

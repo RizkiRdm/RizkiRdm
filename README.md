@@ -1,44 +1,137 @@
-# 🚀 Rizki Romdhoni
-### **Backend Engineer | Python & Go Enthusiast**
+# Hi, I'm Rizki Romdhoni
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+**Software Engineer · Backend & Full-stack**
+`Python` · `Go` · `TypeScript`
 
----
+I build backend systems, developer tools, and practical software products with a focus on **clean architecture, APIs, data integrity, and automation**.
 
-### ⚡ About Me
-I am a passionate **Backend Engineer** dedicated to building scalable, secure, and high-performance systems. I specialize in **Asynchronous Programming** and **Agentic AI Workflows**, with a strong focus on **Clean Architecture** and **Data Integrity**.
-
-</div>
-
-### 🛠️ Tech Stack & Tools
-
-- **Languages:** Python (Primary), Go (Learning), SQL, JavaScript.
-- **Frameworks:** FastAPI, Go Fiber.
-- **Databases:** PostgreSQL, MySQL, Tortoise ORM.
-- **Tools & Security:** Playwright (Web Automation), ClamAV (Malware Scanning), AES-256 Encryption, Git, Docker.
-- **AI Integration:** Google Gemini AI SDK.
+Currently focused on building reliable software with Python and Go, while using TypeScript where a full-stack interface is needed.
 
 ---
 
-### 🌟 Featured Projects
+## What I Work With
 
-#### [🛡️ Vanguard: Autonomous AI Job Hunting API](https://github.com/RizkiRdm/vanguard)
-An advanced asynchronous REST API that acts as a "Digital Twin" for job seekers.
-- **Highlights:** Zero-Trust Security, Async Task Handling, Concurrency Control (Pessimistic/Optimistic Locking).
-- **Tech:** Python (FastAPI), PostgreSQL, Playwright, Gemini AI.
-
-#### [📝 GoBlog: High-Performance Blogging API](https://github.com/RizkiRdm/go-blog)
-A lightweight and fast RESTful API built with the Go ecosystem.
-- **Highlights:** Secure JWT Authentication, Clean Package Structure, Optimized Routing.
-- **Tech:** Go (Golang), Fiber Framework, MySQL.
+| Area                | Technologies                                                |
+| ------------------- | ----------------------------------------------------------- |
+| **Languages**       | Python · Go · TypeScript · JavaScript · SQL                 |
+| **Backend**         | FastAPI · Go Fiber · REST APIs · Async Processing           |
+| **Frontend**        | React · Vite · HTML · CSS                                   |
+| **Database**        | PostgreSQL · MySQL · SQLite                                 |
+| **Engineering**     | Clean Architecture · Authentication · Concurrency · Testing |
+| **Infrastructure**  | Docker · Git · GitHub Actions · Linux                       |
+| **AI / Automation** | Gemini/OpenAI API · MCP · LLM Tooling · Browser Automation         |
 
 ---
 
-### 📫 Get in Touch
-- **LinkedIn:** [linkedin.com/in/rizki-romdhoni](https://linkedin.com/in/rizki-romdhoni)
-- **Email:** rizkiromdhoni28@gmail.com
+## Selected Projects
+
+### PaperViz
+
+**Academic paper analysis tool**
+
+`Go` `React` `SQLite` `REST API` `Gemini`
+
+A software tool for extracting and analyzing information from academic papers, including document processing, structured data extraction, and chart-related workflows.
+
+**Focus:** PDF processing · backend architecture · AI integration · data extraction
+
+[→ View repository](https://github.com/RizkiRdm/PaperViz)
+
+---
+
+### syzgy
+
+**Quality enforcement layer for AI coding agents**
+
+`Python` `Node.js` `MCP` `CLI`
+
+A developer tool that adds a structured engineering workflow to AI coding agents:
+
+**Decompose → Compile → Verify → Reflect**
+
+Includes task analysis, context management, code verification, reflection loops, and few-shot example caching.
+
+**Focus:** developer tooling · MCP · automation · verification · agentic workflows
+
+[→ View repository](https://github.com/RizkiRdm/syzygy-mcp-layer)
+
+---
+
+### Vanguard
+
+**Autonomous AI job-hunting system**
+
+`Python` `FastAPI` `PostgreSQL` `Playwright` `Gemini`
+
+An automation system for discovering relevant jobs, generating tailored application materials, and executing browser-based workflows.
+
+Built around asynchronous processing, PostgreSQL-backed task state, browser automation, and security-oriented credential handling.
+
+**Focus:** async backend · automation · security · AI integration
+
+[→ View repository](https://github.com/RizkiRdm/vanguard-ai-jobHunting)
+
+---
+
+### GoBlog
+
+**Content management REST API**
+
+`Go` `Fiber` `MySQL` `JWT`
+
+A backend application built to explore practical Go web development, authentication, API design, database interaction, and modular project structure.
+
+**Focus:** REST API · authentication · database design · backend architecture
+
+[→ View repository](https://github.com/RizkiRdm/go-blog)
+
+---
+
+## Engineering Interests
+
+* Backend architecture and API design
+* Distributed and asynchronous systems
+* Database design and data integrity
+* Developer tooling
+* AI-assisted software engineering
+* Automation and agentic systems
+* Performance and reliability
+
+---
+
+## Current Direction
+
+I'm currently deepening my software engineering fundamentals rather than collecting frameworks.
+
+My main stack:
+
+```text
+Python ── FastAPI ── PostgreSQL
+   │
+   ├── Async Processing
+   ├── REST APIs
+   └── AI / Automation
+
+Go ────── REST APIs ── PostgreSQL
+   │
+   ├── Concurrency
+   └── Backend Systems
+
+TypeScript ── React ── Vite
+```
+
+I care more about **building and understanding systems** than using a particular framework.
+
+---
+
+## GitHub Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RizkiRdm)](https://git.io/streak-stats)
+
+---
+
+## Contact
+
+* **Email:** [rizkiromdhoni28@gmail.com](mailto:rizkiromdhoni28@gmail.com)
+* **GitHub:** [@RizkiRdm](https://github.com/RizkiRdm)
+* **LinkedIn:** [Rizki Romdhoni](https://www.linkedin.com/in/rizki-romdhoni)
